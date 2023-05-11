@@ -1,0 +1,17 @@
+Django vs Flask vs FastAPI 어떤 걸 사용해야 할까?
+https://yscho03.tistory.com/109
+FastAPI : https://wikidocs.net/175035
+
+파이썬 웹페이지 만들기
+Flask기반
+https://muscleking3426.tistory.com/49
+
+
+파이썬 통합개발환경
+Visual Studio Code 또는 파이참( PyCharm)
+- Visual Studio Code
+  https://code.visualstudio.com/download
+  설치및 사용법 : https://startcoding0.tistory.com/entry/Visual-Studio-Code-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%ACfeat-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%B0%EB%8F%99
+- 파이참( PyCharm)
+  설치및 사용법 https://wikidocs.net/175832
+
